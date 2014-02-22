@@ -19,7 +19,7 @@ app.factory('notificationFactory', function () {
             alert('Dato salvato');
         }, 
         error: function (text) { 
-            alert('error');
+            alert('Errore!!!');
         } 
     }; 
 }); 
